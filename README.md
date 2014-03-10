@@ -5,7 +5,7 @@ Artificial Intelligence: Heuristics, Alpha-Beta Pruning, Search, Min-Max Algorit
 Building a MachinePlayer that plays the game Network.
 ##################################################################################
 # Due to the CS61B class policy,my project code is in a private repo in BitBucket#
-# Please send an email to: dorislee0309@gmail.com to request to see the code     #
+# Please send request to see the code to dorislee0309@gmail.com                  #
 ##################################################################################
 Here is the README that gives an overview of what I did for the project: 
 
