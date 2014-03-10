@@ -1,6 +1,7 @@
 Network
 =======
 Artificial Intelligence: Heuristics, Alpha-Beta Pruning, Search, Min-Max Algorithm
+
 Building a MachinePlayer that plays the game Network.
 ##################################################################################
 # Due to the CS61B class policy,my project code is in a private repo in BitBucket#
