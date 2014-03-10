@@ -1,11 +1,13 @@
 Network
 =======
-Artificial Intelligence: Heuristics, Alpha-Beta Pruning, Search, Min-Max Algorithm
+Main concepts covered in the project:
+- Artificial Intelligence: Heuristics, Alpha-Beta Pruning, Search, Min-Max Algorithm
+- Software Engineering : Modules, Encapsulation, Packages, Teamwork!
 
-Building a MachinePlayer that plays the game Network.
+Purpose: Building a MachinePlayer that plays the game Network.
 ##################################################################################
 # Due to the CS61B class policy,my project code is in a private repo in BitBucket#
-# Please send request to see the code to dorislee0309@gmail.com                  #
+# Please send requests to see the code to dorislee0309@gmail.com                  #
 ##################################################################################
 Here is the README that gives an overview of what I did for the project: 
 
