@@ -28,7 +28,7 @@ directory.
     cp -r ~cs61b/hw/pj2 .
     cd pj2
 
-Suggested Timeline (if you want to finish on time)
+Suggested Timeline
 ==================
 Design the classes, modules, and interfaces (see "Teamwork").      March 13-14
 Have working code for the easier modules.                          March 14
